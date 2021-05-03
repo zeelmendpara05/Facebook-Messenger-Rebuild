@@ -1,0 +1,38 @@
+.messege_card{
+    display: flex;
+    margin: 10px;
+    max-width: 50%;
+    width: fit-content;
+}
+
+.messege_user{
+    margin-left: auto;
+    padding-bottom: 0px !important;
+    color: white !important;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.messege_userCard{
+    background-color: #0b81ff !important;
+    margin-right: 10px;
+    font-size: 10px !important;
+    color: white !important;
+
+}
+
+.messege_guestCard{
+    margin-left: 10px;
+    text-align: left;
+    font-size: x-small !important;
+    background-color: #e9e9e9 !important;
+}
+
+.messege_userCardAvtar{
+    background-color: #0b81ff !important;
+
+}
+
+.messege_guestCardAvtar{
+    background-color: #e9e9e9 !important;
+}
